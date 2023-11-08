@@ -1,0 +1,6 @@
+a:first-child:hover {
+  color: blue;
+}
+a:last-child:visited {
+  color: red;
+}
