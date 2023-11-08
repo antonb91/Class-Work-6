@@ -1,0 +1,21 @@
+article span:first-child {
+  color: red;
+}
+article span:last-child {
+  color: green;
+}
+ul li:first-child {
+  color: red;
+}
+ul li:last-child {
+  color: green;
+}
+.task3 li:nth-child(odd) {
+  color: green;
+}
+.task3 li:nth-child(even) {
+  color: red;
+}
+article:not(.text) {
+  color: red;
+}
