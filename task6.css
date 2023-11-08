@@ -15,6 +15,8 @@
   height: 100px;
   top: 120px;
   left: 120px;
+  top: 70px;
+  left: 70px;
 }
 
 .square__group_3 {
@@ -24,4 +26,6 @@
   height: 100px;
   top: 240px;
   left: 240px;
+  top: 120px;
+  left: 120px;
 }
